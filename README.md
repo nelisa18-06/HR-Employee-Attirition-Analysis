@@ -82,7 +82,7 @@ The Power BI dashboard includes:
 
 Department-wise attrition comparison
 
-# Job Role vs Attrition analysis
+Job Role vs Attrition analysis
 
 Overtime impact on employee attrition
 

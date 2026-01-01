@@ -8,7 +8,7 @@ This project focuses on analyzing employee attrition patterns using the IBM HR A
 
 The project is implemented as an end-to-end data analytics project using Python, SQL, and Power BI.
 
- Objectives of the Project
+ # Objectives of the Project
 
 The main goals of this project are:
 
@@ -20,16 +20,16 @@ To identify trends based on department, job role, overtime, income, and experien
 
 To visualize insights using an interactive Power BI dashboard
 
- Dataset
+ # Dataset
 
 Dataset Name: IBM HR Analytics Employee Attrition Dataset
 
 Source: Kaggle
 
-Description:
+# Description:
 The dataset contains employee information such as age, department, job role, income, overtime, work experience, job satisfaction, and attrition status.
 
- Tools & Technologies Used
+ # Tools & Technologies Used
  Python (Jupyter Notebook)
 
 Pandas – data manipulation and cleaning
@@ -50,7 +50,7 @@ Built interactive dashboards
 
 Visualized attrition patterns by different factors
 
- Data Cleaning Steps
+ # Data Cleaning Steps
 
 The following data cleaning steps were performed in Python:
 
@@ -62,7 +62,7 @@ Validated data ranges (Age, Monthly Income, Experience, etc.)
 
 Ensured correct data types for numerical and categorical columns
 
- Exploratory Data Analysis (EDA)
+ # Exploratory Data Analysis (EDA)
 
 EDA was performed to understand:
 
@@ -72,7 +72,7 @@ Attrition by department
 
 Attrition by job role
 
-Impact of overtime on attrition
+# Impact of overtime on attrition
 
 Relationship between income, experience, and attrition
 
@@ -82,7 +82,7 @@ The Power BI dashboard includes:
 
 Department-wise attrition comparison
 
-Job Role vs Attrition analysis
+# Job Role vs Attrition analysis
 
 Overtime impact on employee attrition
 
@@ -90,7 +90,7 @@ Income and experience-based attrition trends
 
 These visualizations help in quickly identifying high-risk employee groups.
 
-Key Insights
+# Key Insights
 
 Employees working overtime show higher attrition rates
 
@@ -100,7 +100,7 @@ Lower income and lesser experience levels are associated with higher attrition
 
 Attrition patterns vary across departments
 
-Project Files
+# Project Files
 
 cleaning_and_analysis.ipynb – Data cleaning and analysis using Python
 
@@ -110,12 +110,12 @@ HR_Attrition_Analysis.pbix – Power BI dashboard
 
 README.md – Project documentation
 
-Conclusion
+# Conclusion
 
 This project demonstrates an end-to-end data analytics workflow, combining data cleaning, analysis, SQL querying, and dashboard creation.
 It provides meaningful insights that can help HR teams take data-driven decisions to reduce employee attrition.
 
- Author
+ # Author
 
 Nelisa Soares
 BCA Student | Aspiring Data Analyst

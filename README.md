@@ -1,14 +1,14 @@
 # HR-Employee-Attirition-Analysis
 End-To-End HR Attirition analysis using Python(Pandas),SQL,and Power BI with Data cleaning, EDA , and dashboard insights
 HR Employee Attrition Analysis
-📌 Project Overview
+Project Overview
 
 Employee attrition is a critical problem for organizations as it directly impacts productivity, cost, and workforce stability.
 This project focuses on analyzing employee attrition patterns using the IBM HR Analytics dataset to understand the key factors that influence employees leaving the company.
 
 The project is implemented as an end-to-end data analytics project using Python, SQL, and Power BI.
 
-🎯 Objectives of the Project
+ Objectives of the Project
 
 The main goals of this project are:
 
@@ -20,7 +20,7 @@ To identify trends based on department, job role, overtime, income, and experien
 
 To visualize insights using an interactive Power BI dashboard
 
-📂 Dataset
+ Dataset
 
 Dataset Name: IBM HR Analytics Employee Attrition Dataset
 
